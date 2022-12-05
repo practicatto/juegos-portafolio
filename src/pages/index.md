@@ -16,7 +16,40 @@ Encuentra el títere es un juego de deducción social que se puede jugar entre 5
 
 Los jugadores son divididos en 2 equipos: oficialistas y opositores. Los oficialistas tienen un presidente títere que es elegido al azar al inicio del juego. Los opositores tienen que descubrir quién es el presidente títere y los oficialistas. Los opositores no saben quien es oficialista ni quien es opositor.
 
+## Mecánicas
+
+Las mecánicas utilizadas para este juego son las siguientes:
+
+### team-based
+
+{%image src="/mecanicas/team-based.webp" alt="team based" width="150" height="150"%} {%/image%}
+En los juegos por equipos, los equipos de jugadores compiten entre sí para obtener la victoria. Hay una variedad de posibles estructuras de equipo, incluidos equipos simétricos como 2v2 y 3v3, lados múltiples como 2v2v2 e incluso uno contra todos.
+
+### hidden roles
+
+{%image src="/mecanicas/hidden-roles.webp" alt="hidden roles" width="150" height="150"%} {%/image%}
+
+En los juegos con roles ocultos, a uno o más jugadores se les asignan roles diferentes que no se revelan públicamente.
+
+### player elimination
+
+{%image src="/mecanicas/player-elimination.webp" alt="player elimination" width="150" height="150"%} {%/image%}
+Un jugador puede ser eliminado del juego, dejando de participar.
+
+### traitor game
+
+{%image src="/mecanicas/traitor-game.webp" alt="traitor game" width="150" height="150"%} {%/image%}
+
+Un juego de traición puede verse como una especie de juego de equipo o como un juego cooperativo con un mecanismo de traición. Los traidores suelen ganar al activar una condición de falla para los jugadores. Para este mecanismo, un juego de traidores se caracteriza por traidores que comienzan el juego con identidades ocultas, o se les asignan durante el juego.
+
+### voting
+
+{%image src="/mecanicas/voting.webp" alt="voting" width="150" height="150"%} {%/image%}
+Los jugadores votan si una acción propuesta ocurrirá o no.
+
 ## Instrucciones
+
+{%iframe src="https://drive.google.com/file/d/1QMjUzsmJtoNZ2MovwpehOjjqzgxvnU47/preview" width="100%" height="500"%}{%/iframe%}
 
 ### Inicio del juego
 
